@@ -10,7 +10,6 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** en la **Escuela Su
 * 🎓 Actualmente cursando la carrera en **ESCOM, IPN**.
 * 🛠️ Trabajando en proyectos con **C, C++ y Python**.
 * 🌐 Aprendiendo **Desarrollo Web (HTML/CSS/JS)** y bases de datos **SQL**.
-* 🏈 Fan de la estrategia (dentro y fuera de la cancha).
 
 ---
 
