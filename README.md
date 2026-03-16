@@ -38,7 +38,7 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** en la **Escuela Su
 
 ### 📫 Contacto
 * **LinkedIn:** https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
-* **Email:** [Tu-Email-Aquí](mailto:tu-correo@ejemplo.com)
+* **Email:** sebasmoreno04@gmail.com
 
 <p align="right">(Este perfil se actualiza constantemente con nuevos retos de la ESCOM 💻)</p>
 <!--
