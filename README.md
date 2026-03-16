@@ -37,7 +37,7 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** en la **Escuela Su
 ---
 
 ### 📫 Contacto
-* **LinkedIn:** [Tu-Link-Aquí](https://linkedin.com/in/tu-usuario)
+* **LinkedIn:** https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 * **Email:** [Tu-Email-Aquí](mailto:tu-correo@ejemplo.com)
 
 <p align="right">(Este perfil se actualiza constantemente con nuevos retos de la ESCOM 💻)</p>
