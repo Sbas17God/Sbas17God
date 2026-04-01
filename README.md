@@ -1,15 +1,23 @@
-# ¡Hola! Soy Sebastian 👋 (Sbas17God)
+# 👋 ¡Hola! Soy Sebastian (Sbas17God)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=743ad5&center=true&vCenter=true&width=435&lines=Ingeniero+en+Sistemas;Estudiante+en+ESCOM+IPN;Entusiasta+de+la+Tecnolog%C3%ADa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=743ad5&center=true&vCenter=true&width=500&lines=Ingeniero+en+Sistemas;Estudiante+en+ESCOM+IPN;Backend+Developer+en+proceso;Apasionado+por+la+programación" alt="Typing SVG" />
 </p>
 
-### 🚀 Sobre mí
-Soy estudiante de **Ingeniería en Sistemas Computacionales** en la **Escuela Superior de Cómputo (ESCOM)** del IPN. Me apasiona resolver problemas complejos mediante el código, con un enfoque actual en estructuras de datos y desarrollo backend.
+---
 
-* 🎓 Actualmente cursando la carrera en **ESCOM, IPN**.
-* 🛠️ Trabajando en proyectos con **C, C++ y Python**.
-* 🌐 Aprendiendo **Desarrollo Web (HTML/CSS/JS)** y bases de datos **SQL**.
+### 🚀 Sobre mí
+
+Soy estudiante de **Ingeniería en Sistemas Computacionales** en la **ESCOM del IPN**, apasionado por la resolución de problemas mediante código y el aprendizaje continuo.
+
+Me especializo en el área de **backend** y en el uso de **estructuras de datos** para desarrollar soluciones eficientes y escalables. Disfruto enfrentar retos técnicos que fortalezcan mi lógica de programación y habilidades como desarrollador.
+
+Actualmente:
+
+- 🎓 Cursando la carrera en ESCOM, IPN  
+- 💻 Desarrollando proyectos con **C, C++ y Python**  
+- 🌐 Aprendiendo **Desarrollo Web** (HTML, CSS, JavaScript)  
+- 🗄️ Explorando **bases de datos SQL**  
 
 ---
 
@@ -26,31 +34,29 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** en la **Escuela Su
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sbas17God&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sbas17God&layout=compact&theme=dracula&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sbas17God&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400&v=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sbas17God&layout=compact&theme=dracula&langs_count=6&cache_seconds=86400&v=1" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sbas17God&theme=dracula&hide_border=true" />
 </p>
 
 ---
 
 ### 📫 Contacto
-* **LinkedIn:** https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
-* **Email:** sebasmoreno04@gmail.com
 
-<p align="right">(Este perfil se actualiza constantemente con nuevos retos de la ESCOM 💻)</p>
+- 📧 **Email:** sebasmoreno04@gmail.com
+
+---
+
+<p align="center">
+  ⭐ Este perfil está en constante mejora con nuevos proyectos y aprendizajes
+</p>
+
 <!--
-**Sbas17God/Sbas17God** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Sbas17God/Sbas17God** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
