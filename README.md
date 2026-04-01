@@ -1,8 +1,6 @@
 # 👋 ¡Hola! Soy Sebastian (Sbas17God)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=743ad5&center=true&vCenter=true&width=500&lines=Ingeniero+en+Sistemas;Estudiante+en+ESCOM+IPN;Backend+Developer+en+proceso;Apasionado+por+la+programación" alt="Typing SVG" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=743ad5&center=true&vCenter=true&width=435&lines=Ingeniero+en+Sistemas;Estudiante+en+ESCOM+IPN;Entusiasta+de+la+Tecnolog%C3%ADa" alt="Typing SVG" /> </p>
 
 ---
 
