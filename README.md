@@ -35,12 +35,16 @@ Actualmente:
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sbas17God&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400&v=1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sbas17God&layout=compact&theme=dracula&langs_count=6&cache_seconds=86400&v=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sbas17God&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400&v=1&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sbas17God&layout=compact&theme=dracula&langs_count=6&cache_seconds=86400&v=1&hide_border=true" />
 </p>
 
+---
+
+### 🐍 Actividad de Contribuciones
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sbas17God&theme=dracula&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Sbas17God/Sbas17God/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
